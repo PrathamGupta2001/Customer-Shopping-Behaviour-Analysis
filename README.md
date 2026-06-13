@@ -32,12 +32,12 @@ The objective of this project is to simulate a **corporate-grade end-to-end data
 
 1. Clone the Repository
 
-git clone https://github.com/PrathamGupta2001/Customer-Shopping-Behaviour-Analysis.git
+   git clone https://github.com/PrathamGupta2001/Customer-Shopping-Behaviour-Analysis.git
 
 
 2. Open Customer_Shopping_Behavior_Analysis.ipynb
 
-This notebook contains:
+  This notebook contains:
 
 * Data import and loading
 * Data exploration
